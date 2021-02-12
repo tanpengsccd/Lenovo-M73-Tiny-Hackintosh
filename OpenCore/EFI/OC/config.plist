@@ -470,9 +470,9 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>Mac-81E3E92DD6088272</string>
+			<string>D254093004NG36DFB</string>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1541</integer>
 			<key>ROM</key>
 			<data></data>
 			<key>SpoofVendor</key>
@@ -482,9 +482,9 @@
 			<key>SystemProductName</key>
 			<string>iMac14,4</string>
 			<key>SystemSerialNumber</key>
-			<string>REPLACE</string>
+			<string>D25MCBY4FY0T</string>
 			<key>SystemUUID</key>
-			<string>REPLACE</string>
+			<string>D18224D1-BCE5-4D02-8356-6B489F59D314</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
